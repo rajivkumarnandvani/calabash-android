@@ -12,7 +12,7 @@ public class SetDeviceVolumeUp implements Action {
 @Override
 public Result execute(String... args) {
 
-InstrumentationBackend.solo.setActivityOrientation(solo.sendKey(KeyEvent.KEYCODE_VOLUME_UP));
+InstrumentationBackend.solo.sendKey(KeyEvent.KEYCODE_VOLUME_UP);
 return Result.successResult();
 }
 
