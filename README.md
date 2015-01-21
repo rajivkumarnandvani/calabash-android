@@ -67,7 +67,7 @@ Predefined steps
 The predefined steps are located in the `features/step_definitions` folder. A compiled list of predefined steps with comments is available [here](https://github.com/calabash/calabash-android/blob/master/ruby-gem/lib/calabash-android/canned_steps.md)
 
 Troubleshooting
----------------
+------------------
 
 ### Problems clicking on buttons and text
 
