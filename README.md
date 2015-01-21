@@ -62,7 +62,7 @@ Screenshots are placed in the current working directory by default. The location
 would cause the first screenshot to appear at `/tmp/foo/screenshot_0.png`.
 
 Predefined steps
------------------
+------------------
 
 The predefined steps are located in the `features/step_definitions` folder. A compiled list of predefined steps with comments is available [here](https://github.com/calabash/calabash-android/blob/master/ruby-gem/lib/calabash-android/canned_steps.md)
 
